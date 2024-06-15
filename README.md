@@ -27,8 +27,8 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Technologies Used:** React, Next.js
 - [GitHub repo](https://github.com/isoldaliborio/infinita_website) | [Project Website](https://infinitaproductions.com/)
 
-### My Pantry
-- **Description:** App for managing home supplies and shopping lists with a user-friendly interface.
+### Smart Pantry
+- **Description:** Smart Pantry is a home supply and purchase list management system, designed to streamline and optimize the way you organize and track your household inventory. 
 - **Technologies Used:** Python, Flask, SQLAlchemy
 - [GitHub repo](https://github.com/isoldaliborio/mypantry_api)
 
@@ -37,7 +37,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Technologies Used:** Python, Flask, SQL, Jira
 - [GitHub repo](https://github.com/isoldaliborio/recipea_app)
 
-### 🚀 My Stats
+### My Stats 🚀
 <div id = "stats" align = "center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isoldaliborio&theme=omni)](https://git.io/streak-stats)
