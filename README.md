@@ -27,7 +27,12 @@ Here are some of the projects I'm proud of:
 - **Technologies Used:** modern JavaScript frameworks (React, Next.js), 
 - **Link:** [GitHub Repository Link]
 
-### Project 2: [Project Name]
+### Project 2: [My Pantry]
+- **Description:** Brief description of the project.
+- **Technologies Used:** List of technologies used.
+- **Link:** [GitHub Repository Link]
+
+### Project 3: [Recipea]
 - **Description:** Brief description of the project.
 - **Technologies Used:** List of technologies used.
 - **Link:** [GitHub Repository Link]
