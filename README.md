@@ -7,6 +7,8 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - 🌱 Expanding knowledge in programming languages and technologies
 - 🔭 Open to job opportunities and collaborations
 - 🌍 Location: London, UK
+  
+   <img src="https://komarev.com/ghpvc/?username=isoldaliborio&style=for-the-badge&color=yellowgreen" alt=""/>
 
 ## Skills
 
