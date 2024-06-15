@@ -1,50 +1,46 @@
-# Isolda-Liborio GitHub
-Hello World! 
-I'm Isolda, a passionate junior software engineer eager to learn and grow in the field. On this GitHub you can showcases my work, projects, and contributions.
+# Isolda Liborio's GitHub
+
+Hello World! I'm Isolda, a passionate junior software engineer eager to learn and grow. This GitHub showcases my projects and contributions.
 
 ## About Me
 
-- 🌱 Currently expanding my knowledge in various programming languages and technologies.
-- 🔭 Open to exciting job opportunities and collaborations.
-  
+- 🌱 Expanding knowledge in programming languages and technologies
+- 🔭 Open to job opportunities and collaborations
 - 🌍 Location: London, UK
 
 ## Skills
 
-- **Programming Languages:** Python (main), JavaScript
-- **Frameworks and Libraries:** Flask, React, Next.js
-- **Tools and Technologies:** SQL, Git, HTML/CSS
-- **Project Management:** Basic Agile, Product Management, Team Work
-- **Experience with:** Docker, AWS (basic familiarity from coursework)
+- **Languages:** Python, JavaScript
+- **Frameworks:** Flask, React, Next.js
+- **Technologies:** SQL, Git, HTML/CSS, Docker (basic), AWS (basic)
+- **Project Management:** Agile, Product Management, Team Work
 - **Languages:** English, Portuguese (Native), Spanish (Fluent), French (Advanced)
 
 ## Projects
 
-Here are some of the projects I'm proud of:
+### Infinita Website
+- **Description:** Portfolio website for a film production company with responsive layouts and WordPress CMS integration.
+- **Technologies Used:** React, Next.js
+- **Links:** [GitHub](https://github.com/isoldaliborio/infinita_website) | [Project Website](https://infinitaproductions.com/)
 
-### Project 1: [Infinita website]
-- **Description:** Creation of a portifolio website for a film production company, implementing responsive layouts integrating different back-end sources.
-- **Technologies Used:** modern JavaScript frameworks (React, Next.js), 
-- **Link:** [GitHub Repository Link]
+### My Pantry
+- **Description:** App for managing home supplies and shopping lists with a user-friendly interface.
+- **Technologies Used:** Python, Flask, SQLAlchemy
+- **Link:** [GitHub](https://github.com/isoldaliborio/mypantry_api)
 
-### Project 2: [My Pantry]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository Link]
-
-### Project 3: [Recipea]
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository Link]
+### Recipea
+- **Description:** App for cooking lovers to curate and discover recipes.
+- **Technologies Used:** Python, Flask, SQL, Jira
+- **Link:** [GitHub](https://github.com/isoldaliborio/recipea_app)
 
 ## Contact
 
-Feel free to reach out to me!
-- 💼 LinkedIn: [https://www.linkedin.com/in/isoldaliborio/]
+- 💼 [LinkedIn](https://www.linkedin.com/in/isoldaliborio/)
 
 ---
 
-Thank you for visiting this space. Stay tuned for more exciting projects on my GitHub repositories: https://github.com/isoldaliborio!
+Thank you for visiting! Stay tuned for more projects on [my GitHub](https://github.com/isoldaliborio)!
+
 
 
 
