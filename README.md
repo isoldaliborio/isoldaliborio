@@ -18,20 +18,21 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 
 ## Projects
 
-### Infinita Website
+### <a href = "https://www.rubyparkerphotography.com/" target = "_blank"> Infinita Website </a>
+
 - **Description:** Portfolio website for a film production company with responsive layouts and WordPress CMS integration.
 - **Technologies Used:** React, Next.js
-- **Links:** [GitHub](https://github.com/isoldaliborio/infinita_website) | [Project Website](https://infinitaproductions.com/)
+- [GitHub repo](https://github.com/isoldaliborio/infinita_website) | [Project Website](https://infinitaproductions.com/)
 
 ### My Pantry
 - **Description:** App for managing home supplies and shopping lists with a user-friendly interface.
 - **Technologies Used:** Python, Flask, SQLAlchemy
-- **Link:** [GitHub](https://github.com/isoldaliborio/mypantry_api)
+- [GitHub repo](https://github.com/isoldaliborio/mypantry_api)
 
 ### Recipea
 - **Description:** App for cooking lovers to curate and discover recipes.
 - **Technologies Used:** Python, Flask, SQL, Jira
-- **Link:** [GitHub](https://github.com/isoldaliborio/recipea_app)
+- [GitHub repo](https://github.com/isoldaliborio/recipea_app)
 
 ## Contact
 
