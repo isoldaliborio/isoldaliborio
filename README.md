@@ -35,7 +35,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Technologies Used:** Python, Flask, SQL, Jira
 - [GitHub repo](https://github.com/isoldaliborio/recipea_app)
 
-### 🚀: My Stats :
+### 🚀 My Stats
 <div id = "stats" align = "center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isoldaliborio&theme=omni)](https://git.io/streak-stats)
