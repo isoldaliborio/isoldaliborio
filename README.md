@@ -10,15 +10,16 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 
 ## Skills
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Frameworks:** Flask, React, Next.js
-- **Technologies:** SQL, Git, HTML/CSS, Docker (basic), AWS (basic)
-- **Project Management:** Agile, Product Management, Team Work
+- **Technologies:** Git, Linux command line
+- **Experience with:** Docker, AWS (basic familiarity from coursework)
+- **Project Management:** Agile Methodologies, Team Work
 - **Languages:** English, Portuguese (Native), Spanish (Fluent), French (Advanced)
 
 ## Projects
 
-### <a href = "https://www.rubyparkerphotography.com/" target = "_blank"> Infinita Website </a>
+### <a href = "https://infinitaproductions.com/" target = "_blank"> Infinita Website </a>
 
 - **Description:** Portfolio website for a film production company with responsive layouts and WordPress CMS integration.
 - **Technologies Used:** React, Next.js
