@@ -15,7 +15,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Frameworks:** Flask, React, Next.js
 - **Technologies:** Git, Linux command line
-- **Experience with:** Docker, AWS (basic familiarity from coursework)
+- **Experience with:** Docker, AWS (basic familiarity from coursework), Django
 - **Project Management:** Agile Methodologies, Team Work
 - **Languages:** English, Portuguese (Native), Spanish (Fluent), French (Advanced)
 
@@ -40,7 +40,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 ### Smart Notes
 - **Description:** Web app designed to help users create, organize, and manage intelligent notes with ease and efficiency.
 - **Technologies Used:** Python, Django, SQLite
-- [GitHub repo] (https://github.com/isoldaliborio/smart-notes)
+- [GitHub repo](https://github.com/isoldaliborio/smart-notes) 
 
 ### My Stats 🚀
 <div id = "stats" align = "center">
