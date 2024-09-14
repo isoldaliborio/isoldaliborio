@@ -37,7 +37,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Technologies Used:** Python, Flask, SQL, Jira
 - [GitHub repo](https://github.com/isoldaliborio/recipea_app)
 
-### Recipea
+### Smart Notes
 - **Description:** Web app designed to help users create, organize, and manage intelligent notes with ease and efficiency.
 - **Technologies Used:** Python, Django, SQLite
 - [GitHub repo] (https://github.com/isoldaliborio/smart-notes)
