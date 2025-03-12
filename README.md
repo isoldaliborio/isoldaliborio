@@ -15,7 +15,7 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 - **Languages:** Python, JavaScript, SQL, HTML/CSS
 - **Frameworks:** Flask, React, Next.js
 - **Technologies:** Git, Linux command line
-- **Experience with:** Docker, AWS (basic familiarity from coursework), Django
+- **Experience with:** Docker, AWS (basic familiarity from coursework), Django (familiarity)
 - **Project Management:** Agile Methodologies, Team Work
 - **Languages:** English, Portuguese (Native), Spanish (Fluent), French (Advanced)
 
