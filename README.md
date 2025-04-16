@@ -50,6 +50,10 @@ Hello World! I'm Isolda, a passionate junior software engineer eager to learn an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isoldaliborio&layout=compact&theme=omni&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+## CV
+
+- 📍 [Click to see my CV](https://utfs.io/f/UYQ1Qf5nkPhdzpAhesRyS2YxvR64M3b0HGCakoUqWA9pgwQ8)
+
 ## Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/isoldaliborio/)
